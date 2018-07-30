@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Tips, tricks, tutorials and everything in between.
+Hi I'm Sammy and this site is a link to my work as well as tips, tricks, tutorials and everything else I've learnt (and am learning) along the way. Enjoy.
 
-Find me on:
+Also be sure to check out my
 [Github](https://github.com/mghendi/)
-    and
-[LinkedIn](https://www.linkedin.com/in/mwamburi/)
+    as well as get in touch on
+[LinkedIn](https://www.linkedin.com/in/mwamburi/).
