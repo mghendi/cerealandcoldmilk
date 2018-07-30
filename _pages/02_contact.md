@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /contact/
+permalink: /work/
 ---
 
 Contact content goes here.
